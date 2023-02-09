@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about **HTML, CSS, JavaScript, ReactJS, Redux, NodeJs, Express Js, MongoDB and Data Structure And Algorithms**
 
-- 📫 How to reach me - do email me on `sudiptapramanik202@gmail.com`
+- 📫 How to reach me **sudiptapramanik209@gmail.com**
 
 - 👉 My LinkedIn Profile - [Sudipta Pramanik](https://www.linkedin.com/in/sudipta-pramanik-497b031b5/)
 
