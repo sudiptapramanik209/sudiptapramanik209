@@ -112,4 +112,4 @@ A passionate Developer, who loves to create slick and attractive websites. Profi
 
 <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sudiptapramanik209&" alt="sudiptapramanik209" /></p>
 
-[![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=sudiptapramanik209&theme=rogue)](https://github.com/sudiptapramanik209/github-readme-activity-graph)
+[![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=sudiptapramanik209&theme=rogue)]([https://github.com/sudiptapramanik209/github-readme-activity-graph](https://github-readme-activity-graph.cyclic.app/graph?username=sudiptapramanik209&theme=rogue))
