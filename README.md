@@ -55,13 +55,11 @@ A passionate Developer, who loves to create slick and attractive websites. Profi
 <a href="https://www.linkedin.com/in/sudipta-pramanik-497b031b5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sudiptapramanik209" height="30" width="40" /></a>
 
  
-<!-- <a href="https://twitter.com/RAJATAGRAWAL310" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sudiptapramanik209" height="30" width="40" /></a> -->
- 
 
 <a href="https://codesandbox.io/u/sudiptapramanik209" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="sudiptapramanik209" height="30" width="40" /></a>
  
  
-<a href="https://codepen.io/sudiptapramanik209" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="sudiptapramanik209" height="30" width="40" /></a>
+<!-- <a href="https://codepen.io/sudiptapramanik209" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="sudiptapramanik209" height="30" width="40" /></a> -->
 
 
 </p>
