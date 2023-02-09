@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **agrawalrajat310/agrawalrajat310** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -42,7 +41,7 @@ Here are some ideas to get you started:
 
 - ⚡ Fun fact **Quick learner**
 
-### Summary
+Summary
 A passionate Developer, who loves to create slick and attractive websites. Proficient in Web Development, HTML, CSS, JavaScript, React Js + Redux, Next Js, Mongo DB, Express JS, Node Js, Data Structure And Algorithms. Approachable team leader, always keen to take the goal-oriented path to complete the tasks at hand. Looking further to enhance my skills as a Full-Stack Web Developer.
 
 
@@ -92,8 +91,7 @@ A passionate Developer, who loves to create slick and attractive websites. Profi
 <!-- <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/agrawalrajat310"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sudiptapramanik209" /></a></p><br><br>
 <br> -->
-
-## ✍️ Random Dev Quote
+✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
