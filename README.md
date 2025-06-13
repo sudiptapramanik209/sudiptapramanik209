@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h1 align="center">I'm Sudipta Pramanik</h1>
 <div align="center">
  <h1>About me</h1>
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+Profile;Full+Stack+Web+Developer;Quick+learner;Self+Motivated;Problem+Solver;&color=teal&center=true" />
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+Profile;quality+assurance+engineer;Quick+learner;Self+Motivated;Problem+Solver;&color=teal&center=true" />
 </div>
 
 
